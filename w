@@ -10,7 +10,7 @@ hostname = *api.weibo*,sdkapp.uve.weibo.com
 # ～ WeiboLite_微博国际版_趋势tab@ddgksf2013 
 
 # ～ WeiboLite_微博国际版_屏蔽search_suggest@ddgksf2013 
-^https?:\/\/m?api\.weibo\.c(n|om)\/\d\/page\/get_search_suggest url reject-dict
+
 # ～ WeiboLite_微博国际版_趋势tab去广告@ddgksf2013 
 
 # ～ WeiboLite_微博国际版_屏蔽searching_info@ddgksf2013 
